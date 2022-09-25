@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Vidly-Movie-app
+
+It is a react-app  with node backend, It use one and more components, 
+react-routing,react-bootstrap,Font-awosme.
+<br/> Database is Mongodb.
+#Features
+User can add,Remove Movies
+Create user and update movies. JWT authentication
+
+#For Frondent<br/>
+```
+cd frontend
+```
+
+for install all node dependencies
+```
+npm i
+```
+for start the server
+```
+npm start
+```
+
+#For Backend<br/>
+```
+cd backend
+```
+
+for install all node dependencies
+```
+npm i
+```
+for start the server
+```
+npm run
+```
+>>>>>>> efb28864502a7c42e222b111d46329dcb092c9b2
